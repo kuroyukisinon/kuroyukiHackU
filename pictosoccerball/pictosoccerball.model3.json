@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "pictosoccerball.moc3",
+		"Textures": [
+			"pictosoccerball.1024/texture_00.png"
+		],
+		"DisplayInfo": "pictosoccerball.cdi3.json"
+	}
+}
