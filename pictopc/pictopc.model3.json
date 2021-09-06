@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "pictopc.moc3",
+		"Textures": [
+			"pictopc.1024/texture_00.png"
+		],
+		"DisplayInfo": "pictopc.cdi3.json"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "pc"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "pc上"
+		},
+		{
+			"Id": "Part2",
+			"Name": "pc下"
+		}
+	]
+}
