@@ -1,0 +1,17 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "bat",
+			"GroupId": "",
+			"Name": "bat"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "bat"
+		}
+	]
+}
