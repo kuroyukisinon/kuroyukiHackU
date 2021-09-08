@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "pictobook.moc3",
+		"Textures": [
+			"pictobook.1024/texture_00.png"
+		],
+		"DisplayInfo": "pictobook.cdi3.json"
+	}
+}
